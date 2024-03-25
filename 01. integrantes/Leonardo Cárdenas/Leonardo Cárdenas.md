@@ -1,4 +1,6 @@
-# Leonardo Cárdenas
+<div style="text-align:center;">
+  <h1>Leonardo Cárdenas</h1>
+</div>
 
 ![Leonardo Cárdenas](Cárdenas.jfif)
 
