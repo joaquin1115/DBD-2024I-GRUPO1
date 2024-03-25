@@ -1,6 +1,6 @@
 # Integrantes del grupo
 
-- [Alvarado Usucachi José Joaquín](Alvarado/Alvarado.md)
+- [Alvarado Usucachi José Joaquín](Joaquín%20Alvarado/Joaquín%20Alvarado.md)
 - [Campos Herrera Dennis](Campos/Campos.md)
 - [Cárdenas Palacios Leonardo Gustavo](Leonardo%20Cárdenas/Leonardo%20Cárdenas.md)
 - [Cruz Mamani Cristhian Samir](Cruz/Cruz.md)
