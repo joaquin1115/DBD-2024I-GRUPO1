@@ -1,5 +1,3 @@
-#Dennis Campos
-
 ![Campos](Campos.jpg)
 - Correo Personal: denniscampos.1302@gmail.com
 - Correo institucional: dennis.campos.h@uni.pe
