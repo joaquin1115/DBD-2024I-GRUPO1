@@ -7,4 +7,4 @@
 - [Espinoza Cerna Alex](Alex%20Espinoza/alex.md)
 - [Inocente Caro Miguel Anderson](Miguel%20Inocente/Miguel-Inocente.md)
 
-[Regresar al índice](../proyecto.md)
+[Regresar al índice](../README.md)
