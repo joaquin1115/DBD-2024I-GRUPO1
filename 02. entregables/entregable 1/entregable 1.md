@@ -18,6 +18,7 @@
   5. Cerdo congelado, fresco.
   6. Huevos
 - Principales servicios:
+  1. Distribución y Logística: San Fernando provee servicios de distribución y logística para asegurar que sus productos lleguen frescos y a tiempo a los puntos de venta, incluyendo supermercados, tiendas minoristas, y restaurantes.
 - Descripción del proceso de negocio:
   ## Transporte en la cadena de suministros de la empresa San Fernando. 
   1. Recepción de pedidos: El proceso inicia cuando la empresa de transporte recibe los pedidos de los clientes, los cuales pueden abarcar una variedad de productos alimenticios, como alimentos frescos, congelados o enlatados.
