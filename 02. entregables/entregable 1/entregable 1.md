@@ -10,15 +10,15 @@
 
 - Descripción de la empresa:
   San Fernando S.A. es una empresa peruana dedicada a la producción y comercialización de alimentos de consumo masivo de las líneas pollo, pavo, cerdo, huevo y productos procesados.
-- Principales productos/servicios:
+- Principales productos:
   1. Pollo fresco, congelado y saborizado.
   2. Pavo congelado, horneado y macerado.
   3. Embutidos (chorizos, jamonadas, jamones, hot-dog, especiales).
   4. Congelados (apanado, nuggets).
   5. Cerdo congelado, fresco.
   6. Huevos
-- Descripción del proceso de negocio:\
-
+- Principales servicios:
+- Descripción del proceso de negocio:
   ## Transporte en la cadena de suministros de la empresa San Fernando. 
   1. Recepción de pedidos: El proceso inicia cuando la empresa de transporte recibe los pedidos de los clientes, los cuales pueden abarcar una variedad de productos alimenticios, como alimentos frescos, congelados o enlatados.
   2. Planificación de la carga: Tras recibir los pedidos, se lleva a cabo una planificación detallada para determinar cómo se distribuirán los productos en los vehículos de transporte, considerando factores como el tipo de alimento, las condiciones de almacenamiento necesarias y las rutas de entrega.
