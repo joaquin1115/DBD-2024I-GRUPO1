@@ -9,6 +9,7 @@
 ## Parte 2
 
 - Descripción de la empresa:
+  San Fernando S.A. es una empresa peruana dedicada a la producción y comercialización de alimentos de consumo masivo de las líneas pollo, pavo, cerdo, huevo y productos procesados.
 - Principales productos/servicios:
   1. Pollo fresco, congelado y saborizado.
   2. Pavo congelado, horneado y macerado.
