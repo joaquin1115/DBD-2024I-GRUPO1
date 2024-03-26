@@ -3,8 +3,8 @@
 ## Parte 1
 
 - Nombre de la empresa: San Fernando
-- Nombre del contacto:
-- Cargo del contacto:
+- Nombre del contacto: Ing. Aldo Bazalar Nicho 
+- Cargo del contacto: Jefe del área de Logística
 
 ## Parte 2
 
