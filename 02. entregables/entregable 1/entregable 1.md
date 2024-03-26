@@ -32,5 +32,6 @@
   9. Retroalimentación y mejora continua: Una vez completada la entrega, la empresa de transporte recopila la retroalimentación de los clientes y los receptores para evaluar el desempeño del servicio y buscar áreas de mejora, utilizando esta retroalimentación para optimizar los procesos y garantizar una mayor eficiencia y satisfacción del cliente en el futuro.
 (procesos.jpeg)
 
-![procesos](procesos.jpeg)
-
+<div style="text-align: center; width="60%" ">
+    <img width="100%" src="./procesos.jpeg">
+</div>
