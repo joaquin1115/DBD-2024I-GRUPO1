@@ -15,7 +15,7 @@
   2. Pavo congelado, horneado y macerado.
   3. Embutidos (chorizos, jamonadas, jamones, hot-dog, especiales).
   4. Congelados (apanado, nuggets).
-  5. Cerdo congelado, cerdo fresco.
+  5. Cerdo congelado, fresco.
   6. Huevos
 - Descripción del proceso de negocio:\
 
