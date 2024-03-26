@@ -6,4 +6,5 @@ Bienvenidos al repositorio del Proyecto de Diseño de Base de Datos del Grupo 1.
 
 1. [Integrantes del grupo](01.%20integrantes/integrantes.md)
 
-2. Otra sección
+2. Entregables
+   * [Entregable 1](02.%20entregables/entregable%201/entregable%201.md)
