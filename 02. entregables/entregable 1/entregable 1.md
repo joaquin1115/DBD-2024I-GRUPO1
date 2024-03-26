@@ -10,6 +10,12 @@
 
 - Descripción de la empresa:
 - Principales productos/servicios:
+  1. Pollo fresco, congelado y saborizado.
+  2. Pavo congelado, horneado y macerado.
+  3. Embutidos (chorizos, jamonadas, jamones, hot-dog, especiales).
+  4. Congelados (apanado, nuggets).
+  5. Cerdo congelado, cerdo fresco.
+  6. Huevos
 - Descripción del proceso de negocio:\
 
   ## Transporte en la cadena de suministros de la empresa San Fernando. 
