@@ -89,10 +89,10 @@ Responsabilidades:
 
 Responsabilidades:
 
--
--
--
--
+- Registrar la hora de salida de los pedidos de la planta hacia los clientes finales, así como proporcionar actualizaciones en tiempo real sobre el progreso de la entrega, incluyendo la ubicación actual del transporte y las estimaciones de tiempo de llegada.
+- Enviar notificaciones automáticas a los clientes finales con detalles relevantes sobre su pedido, incluyendo la confirmación de salida de la planta, la información de seguimiento en tiempo real y cualquier actualización importante sobre el estado de entrega
+- Permitir la identificación y gestión proactiva de incidencias durante la entrega, como retrasos en el transporte, cambios en la ruta planificada, o problemas imprevistos que puedan afectar la entrega puntual, y proporcionar comunicación transparente al cliente sobre cualquier cambio en el plan de entrega.
+- Registrar un historial completo de todas las entregas realizadas, incluyendo detalles como la fecha y hora de entrega, la firma del cliente (si es aplicable), y cualquier observación relevante, además de generar reportes de desempeño para evaluar la eficiencia y la calidad del servicio de entrega.
 
 
 ### Modulo #5: Control
