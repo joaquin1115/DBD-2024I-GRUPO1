@@ -42,6 +42,10 @@ a. Diagrama AS-IS
 
 ![Diagrama sin título drawio](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/121084712/da52d766-a972-4175-bc38-0cbae8069823)
 
+Proceso de negocio: Elabarocacion de despacho. Elaboración propia.
+
+Link del diagrama: https://app.diagrams.net/?src=about#G1dXQysSmCzSni56V_scq2cCQqn8lhpNzT#%7B%22pageId%22%3A%22prtHgNgQTEPvFCAcTncT%22%7D
+
 ## Módulos del Sistema
 El objetivo principal es encontrar una estructura optima de forma que su software pueda cumplir con sus requerimientos.
 
