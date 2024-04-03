@@ -2,9 +2,6 @@
 
 <dl>
 
-  <dt><strong>sistema GPS</strong></dt>
-  <dd>Sistema de Posicionamiento Global que permite monitorear y rastrear la ubicación de una unidad (vehículo).</dd>
-
   <dt><strong>guía de remisión</strong></dt>
   <dd>Documento que sirve para sustentar el traslado de bienes desde un lugar hacia otro, como un almacén, depósito o establecimiento.</dd>
 
@@ -16,6 +13,9 @@
 
   <dt><strong>picking</strong></dt>
   <dd>Proceso de recogida de material extrayendo unidades o conjuntos empaquetados de una unidad de empaquetado superior que contiene más unidades que las extraídas.</dd>
+
+  <dt><strong>sistema GPS</strong></dt>
+  <dd>Sistema de Posicionamiento Global que permite monitorear y rastrear la ubicación de una unidad (vehículo).</dd>
 
   <dt><strong>sistema SAP</strong></dt>
   <dd>Software de planificación de recursos empresariales desarrollado por la empresa SAP SE.</dd>
