@@ -18,7 +18,7 @@
 
 | Secuencia | Actividad                                          | Descripción         | Responsable  |
 | --------- | -------------------------------------------------- | ------------------- | ------------ |
-| 1         | Requerimiento de compra
+| 1         | Requerimiento de compra   | Detalla las cantidades, especificaciones y fechas de entrega requeridas para asegurar el cumplimiento eficiente del pedido del cliente.
 | 2         | Distribución de Requerimientos
 | 3         | Requerimiento de Transporte
 | 4         | Evaluación de requerimiento
