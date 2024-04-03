@@ -4,7 +4,7 @@
 
 Soy estudiante de la Universidad Nacional de Ingeniería (Lima - Perú).
 Me encuentro en 5 ciclo en la carrera de ingenieria de sistemas.
-Desarrollador fullstack
+Desarrollador fullstack.
 
 correo personal: miguelander30@gmail.com
 
