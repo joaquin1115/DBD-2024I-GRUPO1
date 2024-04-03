@@ -31,6 +31,70 @@ Interacción con otros módulos:
 
 Visibilidad de interfaces:
 
+### Modulo #2: 
+
+Responsabilidades:
+
+-
+-
+-
+-
+
+Interacción con otros módulos:
+
+Visibilidad de interfaces:
+
+### Modulo #3: 
+
+Responsabilidades:
+
+-
+-
+-
+-
+
+Interacción con otros módulos:
+
+Visibilidad de interfaces:
+
+### Modulo #4: 
+
+Responsabilidades:
+
+-
+-
+-
+-
+
+Interacción con otros módulos:
+
+Visibilidad de interfaces:
+
+### Modulo #5: 
+
+Responsabilidades:
+
+-
+-
+-
+-
+
+Interacción con otros módulos:
+
+Visibilidad de interfaces:
+
+### Modulo #6: 
+
+Responsabilidades:
+
+-
+-
+-
+-
+
+Interacción con otros módulos:
+
+Visibilidad de interfaces:
 
 ## Requerimientos
 
