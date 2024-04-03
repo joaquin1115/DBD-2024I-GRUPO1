@@ -24,3 +24,5 @@
   <dd>Solución de software que ofrece visibilidad de todo el inventario de una empresa y gestiona las operaciones de logística de la cadena de suministro, desde el centro de distribución hasta la estantería de la tienda.</dd>
 
 </dl>
+
+[Regresar al índice](../../README.md)
