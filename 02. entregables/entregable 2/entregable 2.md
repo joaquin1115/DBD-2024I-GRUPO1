@@ -5,8 +5,15 @@
 | Secuencia | Actividad                                          | Descripción         | Responsable  |
 | --------- | -------------------------------------------------- | ------------------- | ------------ |
 | 1         |  Evaluacion de actividades
-| 2         |  |
-| 3         |  |
+| 2         |  Elaboracion de requerimientos
+| 3         |  Cargar requerimientos al WMF
+| 4         |
+| 5         |
+| 6         |
+| 7         |
+| 8         |
+| 9         |
+| 10        |
 
 ### 1. Roles del proceso de negocio
 
