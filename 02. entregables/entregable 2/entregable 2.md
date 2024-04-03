@@ -16,6 +16,14 @@
 | 10        | Picking, precintado y carga de productos |
 | 11        | Verificación de recibimiento |
 
+| Secuencia | Actividad                                          | Descripción         | Responsable  |
+| --------- | -------------------------------------------------- | ------------------- | ------------ |
+| 1         |
+| 2         |
+| 3         |
+| 4         |
+
+
 ### 1. Roles del proceso de negocio
 
 -
