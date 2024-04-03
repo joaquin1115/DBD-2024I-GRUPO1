@@ -8,3 +8,6 @@ Bienvenidos al repositorio del Proyecto de Diseño de Base de Datos del Grupo 1.
 
 2. Entregables
    * [Entregable 1](02.%20entregables/entregable%201/entregable%201.md)
+   * [Entregable 2](02.%20entregables/entregable%202/entregable%202.md)
+
+3. [Glosario](03.%20glosario/glosario.md)
