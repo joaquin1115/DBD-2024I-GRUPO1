@@ -15,6 +15,14 @@ a. Diagrama AS-IS
 
 B. Diagrama TO-BE
 
+| Secuencia | Actividad                                          | Descripción         | Responsable  |
+| --------- | -------------------------------------------------- | ------------------- | ------------ |
+| 1         |  |
+| 2         |  |
+| 3         |  |
+
+
+
 ## Módulos del Sistema
 El objetivo principal es encontrar una estructura optima de forma que su software pueda cumplir con sus requerimientos.
 
