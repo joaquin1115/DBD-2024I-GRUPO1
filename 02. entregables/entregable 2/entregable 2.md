@@ -5,7 +5,7 @@
 | Secuencia | Actividad                                          | Descripción         | Responsable  |
 | --------- | -------------------------------------------------- | ------------------- | ------------ |
 | 1         |  Evaluacion de actividades |  Se evalúa las necesidades de cada área interna para seguir con la operatividad de los procesos |
-| 2         |  Elaboracion de requerimientos                         | Se elabora un documento formal de las necesidades para la carga en el sistema SAP
+| 2         |  Elaboracion de requerimientos                         | Se crea una solicitud formal de las necesidades del área para la carga en el sistema SAP
 | 3         |  Cargar requerimientos al WMS
 | 4         |  Recepcion de solicitud de requerimientos
 | 5         |  Segmentación de requerimientos
