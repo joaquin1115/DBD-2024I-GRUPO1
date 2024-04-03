@@ -4,7 +4,7 @@
 
 - **Fecha:** 01/04/2024
 - **Hora de Inicio:** 6:32pm
-- **Hora de Finalización:** 7:31 p
+- **Hora de Finalización:** 7:31pm
 
 ## Detalles del contacto
 
