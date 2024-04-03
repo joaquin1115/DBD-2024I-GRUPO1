@@ -102,9 +102,13 @@ Visibilidad de interfaces:
 
 a. Usuarios
 
--
--
--
+- Perfil de usuario de Planta de Beneficio Huaral (Supervisor de Almacén, Asistente de Almacén, etc.)
+- Perfil de usuario de Almacén Central
+- Perfil de usuario de Área de Transporte
+- Perfil de usuario de Área de Programación
+- Perfil de usuario de Área de Producción
+- Perfil de usuario de Área de Calidad
+- Perfil de usuario de Proveedor
 
 b. Casos de Uso
 
