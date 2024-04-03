@@ -3,7 +3,7 @@
 ## Detalles de la Entrevista
 
 - **Fecha:** 01/04/2024
-- **Hora de Inicio:** 6:32
+- **Hora de Inicio:** 6:32 pm
 - **Hora de Finalización:** 7:31
 
 ## Detalles del contacto
