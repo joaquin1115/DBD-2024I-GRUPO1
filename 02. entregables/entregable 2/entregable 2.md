@@ -9,9 +9,9 @@
 | 3         |  Cargar requerimientos al WMS | Subida de requerimientos mediante el programa SAP con el requerimiento MRP |  |
 | 4         |  Recepcion de solicitud de requerimientos
 | 5         |  Segmentación de requerimientos
-| 6         |
-| 7         |
-| 8         |
+| 6         |  Requerimiento de Transporte
+| 7         |  Evaluación de requerimiento
+| 8         | 
 | 9         |
 | 10        |
 
