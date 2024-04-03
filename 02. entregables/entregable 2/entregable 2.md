@@ -38,6 +38,8 @@
 
 ### 2. Diagrama del proceso de negocio
 
+![Diagrama sin título drawio](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/121084712/da52d766-a972-4175-bc38-0cbae8069823)
+
 a. Diagrama AS-IS
 
 B. Diagrama TO-BE
