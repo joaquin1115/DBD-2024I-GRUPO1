@@ -1,6 +1,6 @@
 # INFORMACIÓN CENTRAL DE PROCESOS
 
-## Fase de abastecimiento en almacén
+## Fase de abastecimiento de almacén
 -	San Fernando posee 3 plantas centrales; planta de procesados en Chorrillos, planta de productos relacionados al pavo ubicado en Chincha y la planta que abarcaremos principalmente y se encuentra ubicado en Huaral, que se especializa en productos relacionados al pollo.
 -	La planta trabaja con un software especializado en lo que son los requerimientos solicitados por cada área, este software es llamado SAP, posee varios módulos, siendo uno de ellos la WMS, que es un módulo encargado de subir necesidades.
 -	Se realizan requerimientos mensuales a través del SAP, que se llama MRP.
