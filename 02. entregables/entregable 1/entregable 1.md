@@ -36,4 +36,4 @@
     <img width="60%" src="./procesos.jpeg">
 </p>
 
-[Regresar al índice](../README.md)
+[Regresar al índice](../../README.md)
