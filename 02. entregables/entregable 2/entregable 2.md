@@ -64,22 +64,16 @@ Responsabilidades:
 - Permitir la asignación eficiente de recursos necesarios para la entrega de los pedidos, como personal de manejo y entrega, y garantizar que cada pedido tenga los recursos adecuados asignados para su procesamiento.
 - Enviar notificaciones y alertas automáticas a los usuarios pertinentes sobre eventos importantes relacionados con los pedidos, como cambios en el estado del pedido, retrasos en la entrega, o problemas con la disponibilidad de productos, para facilitar una respuesta rápida y eficiente.
 
-Interacción con otros módulos:
-
-Visibilidad de interfaces:
 
 ### Modulo #2: Realizar Pedidos
 
-Responsabilidades:
+Responsabilidades: 
 
--
--
--
--
+- Permitir a los usuarios seleccionar productos del catálogo del almacén general y especificar las cantidades deseadas para cada producto en el pedido.
+- Verificar la disponibilidad en tiempo real de los productos solicitados en el inventario del almacén general y mostrar la disponibilidad al usuario durante el proceso de pedido.
+- Recopilar información detallada de entrega, como dirección de envío, información de contacto del destinatario, y cualquier instrucción especial relevante para la entrega.
+- Proporcionar confirmación inmediata al usuario después de realizar el pedido, y permitirle hacer seguimiento del estado de su pedido, incluyendo la preparación, envío y entrega, mediante actualizaciones en tiempo real dentro del sistema.
 
-Interacción con otros módulos:
-
-Visibilidad de interfaces:
 
 ### Modulo #3: Seguimiento de Pedidos Solicitados
 
@@ -90,9 +84,6 @@ Responsabilidades:
 -
 -
 
-Interacción con otros módulos:
-
-Visibilidad de interfaces:
 
 ### Modulo #4: Seguimiento de Pedidos Remitidos
 
@@ -103,9 +94,6 @@ Responsabilidades:
 -
 -
 
-Interacción con otros módulos:
-
-Visibilidad de interfaces:
 
 ### Modulo #5: Control
 
@@ -116,9 +104,6 @@ Responsabilidades:
 -
 -
 
-Interacción con otros módulos:
-
-Visibilidad de interfaces:
 
 ### Modulo #6: Reclamos
 
@@ -129,9 +114,6 @@ Responsabilidades:
 -
 -
 
-Interacción con otros módulos:
-
-Visibilidad de interfaces:
 
 ## Requerimientos
 
