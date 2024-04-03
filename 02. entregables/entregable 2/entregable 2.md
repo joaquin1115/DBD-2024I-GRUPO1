@@ -114,7 +114,7 @@ Visibilidad de interfaces:
 
 ### 1. Requerimientos funcionales
 
-a. Usuarios
+a. Usuarios y casos de uso
 
 - Perfil de usuario de Planta de Beneficio Huaral (Supervisor de Almacén, Asistente de Almacén, etc.)
 
@@ -161,10 +161,6 @@ a. Usuarios
    - Visualizar pedidos de Almacén Central
    - Confirmar fechas de entrega
    - Realizar seguimiento de pedidos
-
-b. Casos de Uso
-
-Caso de Uso #1:
 
 ### 2. Requerimientos de atributos de calidad
 - Rendimiento: El sistema debe ser capaz de manejar grandes volúmenes de transacciones y datos, especialmente en áreas como despacho y producción, donde se manejan operaciones críticas con ventanas de tiempo limitadas.
