@@ -2,6 +2,12 @@
 
 ## Descripción del Proceso de Negocio
 
+| Secuencia | Actividad                                          | Descripción         | Responsable  |
+| --------- | -------------------------------------------------- | ------------------- | ------------ |
+| 1         |  |
+| 2         |  |
+| 3         |  |
+
 ### 1. Roles del proceso de negocio
 
 -
@@ -9,19 +15,12 @@
 -
 -
 
+
 ### 2. Diagrama del proceso de negocio
 
 a. Diagrama AS-IS
 
 B. Diagrama TO-BE
-
-| Secuencia | Actividad                                          | Descripción         | Responsable  |
-| --------- | -------------------------------------------------- | ------------------- | ------------ |
-| 1         |  |
-| 2         |  |
-| 3         |  |
-
-
 
 ## Módulos del Sistema
 El objetivo principal es encontrar una estructura optima de forma que su software pueda cumplir con sus requerimientos.
