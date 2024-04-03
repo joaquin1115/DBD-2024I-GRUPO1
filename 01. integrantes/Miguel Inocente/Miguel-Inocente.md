@@ -5,6 +5,7 @@ Me encuentro en 5 ciclo en la carrera de ingenieria de sistemas.
 Desarrollador fullstack
 
 correo personal: miguelander30@gmail.com
+
 correo UNI: miguel.inocente.c@uni.pe
 
 usuario en Github: Miguel-Ghost
