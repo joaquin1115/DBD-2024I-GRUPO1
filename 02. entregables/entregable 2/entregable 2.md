@@ -99,10 +99,10 @@ Responsabilidades:
 
 Responsabilidades:
 
--
--
--
--
+- Registrar y controlar cada paso del proceso de cumplimiento del pedido, desde la selección de productos (picking) hasta la verificación final antes de la entrega, asegurando que se completen de manera secuencial y eficiente.
+- Proporcionar una visibilidad en tiempo real del progreso de cada paso del pedido, permitiendo a los usuarios monitorear y supervisar el estado de cumplimiento de manera continua y realizar intervenciones si es necesario.
+- Asignar tareas específicas a los empleados responsables de cada paso del proceso y gestionar los recursos necesarios para completar esas tareas, como mano de obra, equipo y materiales.
+- Enviar notificaciones automáticas cuando se alcancen hitos importantes en el proceso del pedido, como la finalización del picking, el precintado o el cargado, así como alertas en caso de retrasos o problemas que requieran atención inmediata para mantener el flujo de trabajo sin problemas.
 
 
 ### Modulo #6: Reclamos
