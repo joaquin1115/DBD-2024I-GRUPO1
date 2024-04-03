@@ -2,6 +2,9 @@
 
 <dl>
 
+  <dt><strong>sistema GPS</strong></dt>
+  <dd>Sistema de Posicionamiento Global que permite monitorear y rastrear la ubicación de una unidad (vehículo).</dd>
+
   <dt><strong>guía de remisión</strong></dt>
   <dd>Documento que sirve para sustentar el traslado de bienes desde un lugar hacia otro, como un almacén, depósito o establecimiento.</dd>
 
