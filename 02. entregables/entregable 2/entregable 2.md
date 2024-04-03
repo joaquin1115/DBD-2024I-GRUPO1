@@ -18,10 +18,14 @@
 
 | Secuencia | Actividad                                          | Descripción         | Responsable  |
 | --------- | -------------------------------------------------- | ------------------- | ------------ |
-| 1         |
-| 2         |
-| 3         |
-| 4         |
+| 1         | Requerimiento de compra
+| 2         | Distribución de Requerimientos
+| 3         | Requerimiento de Transporte
+| 4         | Evaluación de requerimiento
+| 5         | Asignación de vehículo y conductor
+| 6         | Picking, precintado y carga de productos
+| 7         | Verificación de entrega
+
 
 
 ### 1. Roles del proceso de negocio
