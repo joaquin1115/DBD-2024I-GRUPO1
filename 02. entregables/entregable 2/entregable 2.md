@@ -49,7 +49,20 @@ Link del diagrama: https://app.diagrams.net/?src=about#G1dXQysSmCzSni56V_scq2cCQ
 ## Módulos del Sistema
 El objetivo principal es encontrar una estructura optima de forma que su software pueda cumplir con sus requerimientos.
 
-### Modulo #1: 
+### Modulo #1: Pedidos Asignados
+
+Responsabilidades:
+
+- 
+-
+-
+-
+
+Interacción con otros módulos:
+
+Visibilidad de interfaces:
+
+### Modulo #2: Realizar Pedidos
 
 Responsabilidades:
 
@@ -62,7 +75,7 @@ Interacción con otros módulos:
 
 Visibilidad de interfaces:
 
-### Modulo #2: 
+### Modulo #3: Seguimiento de Pedidos Solicitados
 
 Responsabilidades:
 
@@ -75,7 +88,7 @@ Interacción con otros módulos:
 
 Visibilidad de interfaces:
 
-### Modulo #3: 
+### Modulo #4: Seguimiento de Pedidos Remitidos
 
 Responsabilidades:
 
@@ -88,7 +101,7 @@ Interacción con otros módulos:
 
 Visibilidad de interfaces:
 
-### Modulo #4: 
+### Modulo #5: Control
 
 Responsabilidades:
 
@@ -101,20 +114,7 @@ Interacción con otros módulos:
 
 Visibilidad de interfaces:
 
-### Modulo #5: 
-
-Responsabilidades:
-
--
--
--
--
-
-Interacción con otros módulos:
-
-Visibilidad de interfaces:
-
-### Modulo #6: 
+### Modulo #6: Reclamos
 
 Responsabilidades:
 
