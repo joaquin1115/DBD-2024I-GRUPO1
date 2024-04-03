@@ -7,7 +7,7 @@
 | 1         |  Evaluacion de actividades |  Se evalúa las necesidades de cada área interna para seguir con la operatividad de los procesos |
 | 2         |  Elaboracion de requerimientos                         | Se crea una solicitud formal de las necesidades del área para la carga en el sistema SAP
 | 3         |  Cargar requerimientos al WMS | Subida de requerimientos mediante el programa SAP con el requerimiento MRP |  |
-| 4         |  Recepcion de solicitud de requerimientos
+| 4         |  Recepcion de solicitud de requerimientos | El almacen se encarga de recibir y verificar las solicitudes| 
 | 5         |  Segmentación de requerimientos
 | 6         |  Requerimiento de Transporte
 | 7         |  Evaluación de requerimiento
