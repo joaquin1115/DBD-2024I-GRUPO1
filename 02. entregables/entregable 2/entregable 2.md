@@ -79,10 +79,10 @@ Responsabilidades:
 
 Responsabilidades:
 
--
--
--
--
+- Utilizar tecnología GPS para proporcionar un seguimiento en tiempo real de la ubicación del pedido mientras se encuentra en tránsito, permitiendo a los usuarios visualizar la ubicación exacta del transporte en un mapa interactivo.
+- Registrar automáticamente las horas de salida y llegada del transporte en relación con el pedido, proporcionando información precisa sobre el tiempo de tránsito y la eficiencia del transporte.
+- Utilizar algoritmos de planificación de rutas para determinar la ruta más eficiente para la entrega del pedido, teniendo en cuenta factores como el tráfico en tiempo real, las condiciones de la carretera y las preferencias del transportista.
+- Almacenar y gestionar datos importantes del transportista, como información de contacto, detalles del vehículo de transporte, licencias y certificaciones relevantes, para garantizar la seguridad y la trazabilidad del proceso de entrega.
 
 
 ### Modulo #4: Seguimiento de Pedidos Remitidos
