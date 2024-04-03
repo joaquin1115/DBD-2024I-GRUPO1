@@ -167,6 +167,20 @@ a. Usuarios y casos de uso
    - Confirmar fechas de entrega
    - Realizar seguimiento de pedidos
 
+### Prototipo
+
+![image](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/121084712/2f4c2008-a99f-435f-997f-da8059baf9f4)
+
+
+![image](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/121084712/13053723-715a-4698-8b24-9944bccacbc5)
+
+
+![image](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/121084712/0b5ebf91-03dd-413c-9fa8-782e44100ae3)
+
+Elaboracion propia.
+
+Link del Figma: https://www.figma.com/file/KQ34ScwxvuSCmmvHqfIPRP/Untitled?type=design&node-id=0-1&mode=design&t=JqDocJQHe0H19EIf-0
+
 ### 2. Requerimientos de atributos de calidad
 - Rendimiento: El sistema debe ser capaz de manejar grandes volúmenes de transacciones y datos, especialmente en áreas como despacho y producción, donde se manejan operaciones críticas con ventanas de tiempo limitadas.
 - Procesos batch: Ciertos procesos, como la planificación de producción y la generación de pedidos, pueden requerir ejecuciones periódicas (diarias, semanales, mensuales) de acuerdo con los ciclos de negocio.
