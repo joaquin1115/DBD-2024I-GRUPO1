@@ -8,6 +8,9 @@
   <dt><strong>lead times</strong></dt>
   <dd>Tiempo que transcurre desde que se solicita un pedido hasta que llega al cliente.</dd>
 
+  <dt><strong>planificación de requerimientos de distribución (DRP)</strong></dt>
+  <dd>Software planificador de los requerimientos de distribución que permite la emisión de órdenes de productos dentro de la cadena de suministro.</dd>
+
   <dt><strong>planificación de requisitos de material (MRP)</strong></dt>
   <dd>Software planificador de los requerimientos de material que permite gestionar las operaciones de una empresa en cuanto a las actividades de producción, almacenaje,  distribución y entrega de pedidos en el momento y lugar preciso para cumplir con la demanda de los clientes.</dd>
 
