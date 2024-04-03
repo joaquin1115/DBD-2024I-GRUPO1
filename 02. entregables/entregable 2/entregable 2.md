@@ -6,9 +6,9 @@
 | --------- | -------------------------------------------------- | ------------------- | ------------ |
 | 1         |  Evaluacion de actividades
 | 2         |  Elaboracion de requerimientos
-| 3         |  Cargar requerimientos al WMF
-| 4         |
-| 5         |
+| 3         |  Cargar requerimientos al WMS
+| 4         |  Recepcion de solicitud de requerimientos
+| 5         |  Segmentación de requerimientos
 | 6         |
 | 7         |
 | 8         |
