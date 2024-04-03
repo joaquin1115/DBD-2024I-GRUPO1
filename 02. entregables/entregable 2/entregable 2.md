@@ -53,10 +53,10 @@ El objetivo principal es encontrar una estructura optima de forma que su softwar
 
 Responsabilidades:
 
-- 
--
--
--
+- Mostrar información detallada de cada pedido, incluyendo número de pedido, productos solicitados, cantidades, fecha de solicitud, cliente, dirección de entrega, y cualquier nota adicional relevante.
+- Mantener actualizado el estado de cada pedido, indicando si está pendiente, en proceso o completado, y permitir a los usuarios actualizar este estado según avance el proceso de entrega.
+- Permitir la asignación eficiente de recursos necesarios para la entrega de los pedidos, como personal de manejo y entrega, y garantizar que cada pedido tenga los recursos adecuados asignados para su procesamiento.
+- Enviar notificaciones y alertas automáticas a los usuarios pertinentes sobre eventos importantes relacionados con los pedidos, como cambios en el estado del pedido, retrasos en la entrega, o problemas con la disponibilidad de productos, para facilitar una respuesta rápida y eficiente.
 
 Interacción con otros módulos:
 
