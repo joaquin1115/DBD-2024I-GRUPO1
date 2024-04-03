@@ -15,3 +15,5 @@ A continuación, se muestra la grabación de la entrevista realizada a la ingeni
 [![Entrevista](http://img.youtube.com/vi/DPxvZC3R6Ws/0.jpg)](http://www.youtube.com/watch?v=DPxvZC3R6Ws "Entrevista a Joselin Torres")
 
 Los detalles de la reunión fueron registrados en la [acta](acta-entrevista-20240401.md) respectiva, así como también se elaboró una [transcripción](transcripcion-entrevista-20240401.md) de las preguntas y respuestas realizadas durante la entrevista.
+
+[Regresar al índice](../../README.md)
