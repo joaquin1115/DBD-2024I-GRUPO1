@@ -103,12 +103,50 @@ Visibilidad de interfaces:
 a. Usuarios
 
 - Perfil de usuario de Planta de Beneficio Huaral (Supervisor de Almacén, Asistente de Almacén, etc.)
+
+   - Realizar pedidos de materiales (suministros, repuestos, insumos, etiquetas, etc.)
+   - Verificar pedidos en tránsito y recepcionar pedidos entrantes
+   - Gestionar devoluciones de productos terminados
+   - Visualizar estadísticas de recepción/despacho de productos
+
 - Perfil de usuario de Almacén Central
+
+   - Gestionar pedidos de las distintas plantas
+   - Asignar vehículos y conductores para el despacho
+   - Realizar despachos hacia las plantas
+   - Gestionar devoluciones de plantas
+   - Visualizar estadísticas de despachos
+
 - Perfil de usuario de Área de Transporte
+
+   - Gestionar flota de vehículos y conductores
+   - Asignar vehículos y conductores para despachos
+   - Realizar seguimiento de entregas
+   - Visualizar estadísticas de transporte
+
 - Perfil de usuario de Área de Programación
+
+   - Planificar producción diaria/semanal
+   - Coordinar con granjas para envío de aves
+   - Visualizar estadísticas de producción
+  
 - Perfil de usuario de Área de Producción
+
+   - Gestionar proceso de producción (recepción de aves, viscerado, corte, marinado, etc.)
+   - Coordinar con despacho para cumplir ventanas horarias
+   - Visualizar estadísticas de producció
+  
 - Perfil de usuario de Área de Calidad
+
+   - Gestionar devoluciones de clientes
+   - Analizar causas de devoluciones
+   - Visualizar estadísticas de calidad
+  
 - Perfil de usuario de Proveedor
+
+   - Visualizar pedidos de Almacén Central
+   - Confirmar fechas de entrega
+   - Realizar seguimiento de pedidos
 
 b. Casos de Uso
 
