@@ -179,7 +179,7 @@ a. Usuarios y casos de uso
 
 Elaboracion propia.
 
-Link del Figma: https://www.figma.com/file/KQ34ScwxvuSCmmvHqfIPRP/Untitled?type=design&node-id=0-1&mode=design&t=JqDocJQHe0H19EIf-0
+Link del Figma: https://www.figma.com/file/KQ34ScwxvuSCmmvHqfIPRP/Untitled?type=design&node-id=0-1&mode=design&t=Hbv9cdOoQzm0mQQy-0
 
 ### 2. Requerimientos de atributos de calidad
 - Rendimiento: El sistema debe ser capaz de manejar grandes volúmenes de transacciones y datos, especialmente en áreas como despacho y producción, donde se manejan operaciones críticas con ventanas de tiempo limitadas.
