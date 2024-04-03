@@ -4,7 +4,7 @@
 
 | Secuencia | Actividad                                          | Descripción         | Responsable  |
 | --------- | -------------------------------------------------- | ------------------- | ------------ |
-| 1         |  |
+| 1         |  Evaluacion de actividades
 | 2         |  |
 | 3         |  |
 
