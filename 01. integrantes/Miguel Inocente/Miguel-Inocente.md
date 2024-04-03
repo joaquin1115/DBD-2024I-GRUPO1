@@ -12,7 +12,7 @@ correo UNI: miguel.inocente.c@uni.pe
 
 usuario en Github: Miguel-Ghost
 
-Link de Github:
+Link de Github: https://github.com/Miguel-Ghost
 
 [Ver integrantes](https://github.com/joaquin1115/DBD-2024I-GRUPO1/blob/main/01.%20integrantes/integrantes.md)
 
