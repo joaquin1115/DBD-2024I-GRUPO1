@@ -192,6 +192,8 @@ Link del Figma: https://www.figma.com/file/KQ34ScwxvuSCmmvHqfIPRP/Untitled?type=
 ## Entrevista
 A continuación, se muestra la grabación de la entrevista realizada a la ingeniera Joselin Alexandra Torres Robles, supervisora del área de almacén de la planta Huaral de San Fernando.
 
-[![Entrevista](http://img.youtube.com/vi/DPxvZC3R6Ws/0.jpg)](http://www.youtube.com/watch?v=DPxvZC3R6Ws "Entrevista a Joselin Torres")
+[![Entrevista](video_preview.png)](http://www.youtube.com/watch?v=DPxvZC3R6Ws "Entrevista a Joselin Torres")
 
-Los detalles de la reunión fueron registrados en la [acta](acta-entrevista-20240401.md) respectiva, así como también se elaboró una [transcripción](transcripcion-entrevista-20240401.md) de las preguntas y respuestas realizadas durante la entrevista, además se generó un resumen donde se sintetiza los procesos más importantes con un cierto orden [Resumen entrevista](Resumen-transcripcion.md), con el fin de comprender mejor los procesos de San Fernando.
+Los detalles de la reunión fueron registrados en la [acta](acta-entrevista-20240401.md) respectiva, así como también se elaboró una [transcripción](transcripcion-entrevista-20240401.md) de las preguntas y respuestas realizadas durante la entrevista, además se generó un [resumen](Resumen-transcripcion.md) donde se sintetiza los procesos más importantes con un cierto orden, con el fin de comprender mejor los procesos de San Fernando.
+
+[Regresar al índice](../../README.md)
