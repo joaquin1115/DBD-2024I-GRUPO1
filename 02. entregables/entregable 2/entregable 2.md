@@ -85,34 +85,63 @@ Responsabilidades:
 - Almacenar y gestionar datos importantes del transportista, como información de contacto, detalles del vehículo de transporte, licencias y certificaciones relevantes, para garantizar la seguridad y la trazabilidad del proceso de entrega.
 
 
-### Modulo #4: Seguimiento de Pedidos Remitidos
+### Modulo #4: Control
 
-Responsabilidades:
+Responsabilidades: 
 
-- Registrar la hora de salida de los pedidos de la planta hacia los clientes finales, así como proporcionar actualizaciones en tiempo real sobre el progreso de la entrega, incluyendo la ubicación actual del transporte y las estimaciones de tiempo de llegada.
-- Enviar notificaciones automáticas a los clientes finales con detalles relevantes sobre su pedido, incluyendo la confirmación de salida de la planta, la información de seguimiento en tiempo real y cualquier actualización importante sobre el estado de entrega
-- Permitir la identificación y gestión proactiva de incidencias durante la entrega, como retrasos en el transporte, cambios en la ruta planificada, o problemas imprevistos que puedan afectar la entrega puntual, y proporcionar comunicación transparente al cliente sobre cualquier cambio en el plan de entrega.
-- Registrar un historial completo de todas las entregas realizadas, incluyendo detalles como la fecha y hora de entrega, la firma del cliente (si es aplicable), y cualquier observación relevante, además de generar reportes de desempeño para evaluar la eficiencia y la calidad del servicio de entrega.
+- Registrar la hora de salida de los pedidos de la planta hacia los clientes finales, así como actualizar en tiempo real el progreso de la entrega, incluyendo el lugar actual del transporte y las estimaciones de llegada. 
+
+- Permitir el seguimiento de cada uno de los pasos requeridos para llevar un producto desde la planta Huaral hasta el cliente final pasando por los procesos de picking, precintado, cargado, transporte y verificación de llegada. 
+
+- Registrar los procesos de verificación necesarios durante el transporte de abastecimiento proveniente de almacén general hacia la planta Huaral, incluyendo los datos relevantes del transporte, información de llegada, verificación de paquetes y registro específico de los materiales entregados. 
+
+- Permitir la identificación y gestión proactiva de incidencias durante la entrega, como retrasos en el transporte, cambios en la ruta planificada, o problemas imprevistos que puedan afectar la entrega puntual, y proporcionar comunicación transparente al cliente sobre cualquier cambio en el plan de entrega. 
+
+- Registrar un historial completo de las entregas realizadas, con detalles como fecha y hora de entrega, y observaciones relevantes, además de un registro de los reportes de desempeño para evaluar la eficiencia y calidad del servicio de entrega. 
+
+Interacción con otros módulos: 
+
+- Vínculo directo al módulo de seguimiento del envío en determinado tiempo durante el proceso de control 
+
+- Vínculo con el módulo de pedidos y el de reclamos para generar el registro de incidencias en caso lo verificado no coincida con la documentación.
 
 
-### Modulo #5: Control
+### Modulo #5: Reportes 
 
-Responsabilidades:
+Responsabilidades: 
 
-- Registrar y controlar cada paso del proceso de cumplimiento del pedido, desde la selección de productos (picking) hasta la verificación final antes de la entrega, asegurando que se completen de manera secuencial y eficiente.
-- Proporcionar una visibilidad en tiempo real del progreso de cada paso del pedido, permitiendo a los usuarios monitorear y supervisar el estado de cumplimiento de manera continua y realizar intervenciones si es necesario.
-- Asignar tareas específicas a los empleados responsables de cada paso del proceso y gestionar los recursos necesarios para completar esas tareas, como mano de obra, equipo y materiales.
-- Enviar notificaciones automáticas cuando se alcancen hitos importantes en el proceso del pedido, como la finalización del picking, el precintado o el cargado, así como alertas en caso de retrasos o problemas que requieran atención inmediata para mantener el flujo de trabajo sin problemas.
+- Generar y remitir un informe diario detallado de los productos disponibles en almacén interno listos para el proceso de distribución 
+
+- Debe poder programar la generación automática de informes en intervalos regulares, con opciones para enviarlos por correo electrónico o almacenarlos en un lugar designado. 
+
+- El módulo debe ofrecer una visualización interactiva de datos mediante gráficos y tablas dinámicas, capaz de explorar los datos con filtros y darle dinamismo a la forma en la que se generan los reportes. 
+
+- El sistema debe permitir a los usuarios personalizar y generar informes según sus necesidades específicas, incluyendo la selección de métricas, variables y filtros relevantes. 
+
+Interacción con otros módulos: 
+
+- Requiere conexión con todos los demás módulos para recopilar, procesar y generar información a partir de sus datos. 
+
+- Un botón en cada módulo puede generar resúmenes predefinidos de información diaria o la necesaria para tomar decisiones.
 
 
 ### Modulo #6: Reclamos
 
-Responsabilidades:
+Responsabilidades: 
 
-- Permitir a los usuarios registrar reclamos recibidos de clientes finales, incluyendo detalles como la naturaleza del reclamo, el número de pedido afectado, la fecha de recepción y cualquier información relevante adicional.
-- Facilitar el seguimiento y la resolución efectiva de reclamos, asignando tareas a los equipos responsables de manejarlos, estableciendo plazos para su resolución y proporcionando una interfaz centralizada para la comunicación y colaboración entre los diferentes departamentos involucrados.
-- Permitir la implementación de acciones correctivas para abordar los reclamos de manera oportuna y efectiva, lo que puede incluir el envío de un nuevo paquete para reemplazar un pedido dañado o perdido, o el cambio de la planta proveedora si se identifican problemas recurrentes con la calidad o la entrega.
-- Mantener un registro detallado del historial de reclamos y proporcionar herramientas de análisis para identificar tendencias y patrones recurrentes, lo que permite a la empresa tomar medidas proactivas para mejorar la calidad del servicio y prevenir reclamos futuros.
+- Permitir a los usuarios registrar reclamos recibidos de clientes finales, incluyendo detalles como la naturaleza del reclamo, el número de pedido afectado, la fecha de recepción y cualquier información relevante adicional. 
+
+- Facilitar el seguimiento y la resolución efectiva de reclamos, asignando tareas a los equipos responsables de manejarlos, estableciendo plazos para su resolución y proporcionando una interfaz centralizada para la comunicación y colaboración entre los diferentes departamentos involucrados. 
+
+- Permitir la implementación de acciones correctivas para abordar los reclamos de manera oportuna y efectiva, lo que puede incluir el envío de un nuevo paquete para reemplazar un pedido dañado o perdido, o el cambio de la planta proveedora si se identifican problemas recurrentes con la calidad o la entrega. 
+
+- Mantener un registro detallado del historial de reclamos y proporcionar herramientas de análisis para identificar tendencias y patrones recurrentes, lo que permite a la empresa tomar medidas proactivas para mejorar la calidad del servicio y prevenir reclamos futuros. 
+
+Interacción con otros módulos: 
+
+- Conexión con el módulo de seguimiento y control para registros de incidencias.  
+
+- Conexión con el módulo de pedidos para verificación de requerimientos y entregas. 
 
 
 ## Requerimientos
