@@ -205,7 +205,7 @@ a. Usuarios y casos de uso
    - Confirmar fechas de entrega
    - Realizar seguimiento de pedidos
 
-### Prototipo
+### Prototipos
 
 ![image](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/121084712/2f4c2008-a99f-435f-997f-da8059baf9f4)
 
