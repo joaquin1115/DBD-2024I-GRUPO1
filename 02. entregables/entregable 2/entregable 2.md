@@ -215,9 +215,13 @@ a. Usuarios y casos de uso
 
 ![image](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/121084712/0b5ebf91-03dd-413c-9fa8-782e44100ae3)
 
-### Módulo 5
+### Módulo 5: Reportes
 
 ![modulo-5f](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/161625149/716e94a7-7fb6-4aa2-9510-087e745f52ca)
+
+### Módulo 6: Reclamos
+
+![modulo-6](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/161625149/ccc11721-9ec7-408f-b464-7d8c511b827a)
 
 Elaboracion propia.
 
