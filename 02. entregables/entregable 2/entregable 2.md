@@ -244,6 +244,8 @@ Los detalles de la reunión fueron registrados en la [acta](acta-entrevista-2024
 
 ## AVANCE DE DIAGRAMAS ENTIDAD - RELACIÓN
 Se tomó como base el siguiente gráfico que identifica la relación de algunas variables de la empresa San Fernando:
+![guía](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/164266999/9e755db5-c69d-4db9-92c1-2d0539686804)
+
 
 
 [Regresar al índice](../../README.md)
