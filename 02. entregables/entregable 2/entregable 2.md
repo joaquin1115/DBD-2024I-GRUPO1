@@ -216,7 +216,7 @@ a. Usuarios y casos de uso
 
 ![image](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/121084712/0b5ebf91-03dd-413c-9fa8-782e44100ae3)
 
-### Módulo 2: Seguimiento:
+### Módulo 2: Seguimiento
 
 ![Imagen de WhatsApp 2024-04-10 a las 14 18 38_f475f094](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/164358065/4e09192b-30ed-499e-b535-a1c6c990f9de)
 
@@ -225,6 +225,22 @@ a. Usuarios y casos de uso
 
 
 ![Imagen de WhatsApp 2024-04-10 a las 14 45 07_1d1b21ca](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/164358065/7f9d0f11-479f-4093-ba5a-4077ff8e51f9)
+
+### Módulo 3: Almacén
+
+![image](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/130816094/6161434c-02f6-4f76-a799-3b3237c69ac3)
+
+![image](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/130816094/6684e970-aac4-4660-b47e-643dda19f361)
+
+![image](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/130816094/2cb94f6b-bc6d-4d10-aced-c5df9490aa99)
+
+![image](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/130816094/a208fc33-ae7c-4e2e-afba-a1aaf0e431ca)
+
+![image](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/130816094/3de309a6-e1e9-4ff1-9583-311824e7bcf4)
+
+![image](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/130816094/55aefe51-91c1-47d4-957f-4572a658a4ca)
+
+[Figma](https://www.figma.com/file/nnoiQDwJ9WstLLZmVisdpw/Untitled?type=design&node-id=0-1&mode=design&t=ztZFDIkEuNp6ykcn-0)
 
 ### Módulo 5: Reportes
 
