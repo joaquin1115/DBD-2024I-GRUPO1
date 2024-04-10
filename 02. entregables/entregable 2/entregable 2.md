@@ -206,6 +206,7 @@ a. Usuarios y casos de uso
    - Realizar seguimiento de pedidos
 
 ### Prototipos
+### Módulo 1: Pedidos
 
 ![image](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/121084712/2f4c2008-a99f-435f-997f-da8059baf9f4)
 
@@ -214,6 +215,16 @@ a. Usuarios y casos de uso
 
 
 ![image](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/121084712/0b5ebf91-03dd-413c-9fa8-782e44100ae3)
+
+### Módulo 2: Seguimiento:
+
+![Imagen de WhatsApp 2024-04-10 a las 14 18 38_f475f094](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/164358065/4e09192b-30ed-499e-b535-a1c6c990f9de)
+
+
+![Imagen de WhatsApp 2024-04-10 a las 14 18 38_243c1c08](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/164358065/5902943d-e5b6-4268-bd7d-8ecbee7940b9)
+
+
+![Imagen de WhatsApp 2024-04-10 a las 14 45 07_1d1b21ca](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/164358065/7f9d0f11-479f-4093-ba5a-4077ff8e51f9)
 
 ### Módulo 5: Reportes
 
