@@ -247,5 +247,12 @@ Se tomó como base el siguiente gráfico que identifica la relación de algunas 
 ![guía](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/164266999/9e755db5-c69d-4db9-92c1-2d0539686804)
 
 
+La siguiente imagen nos muestra un fragmento de los diagramas Entidad-Relación:
+![Entidad Relacion](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/164266999/66f0d1e4-782d-428c-8221-cdb27b2dc439)
+
+Finalmente adjuntamos un link donde se ven los diagramas de cada una de las variables registradas hasta el momento:
+https://app.diagrams.net/#Wb!B6iW_HyZ9Uu006YT7wrOYtAgE85DSMBNgtvqP4jjpusfjQlxbKwHQbw161ArWf7P%2F01ZOJ7WU2RUCTY52DUKFEJ4FQ5DCEEUOK2#%7B%22pageId%22%3A%22R2lEEEUBdFMjLlhIrx00%22%7D
+
+
 
 [Regresar al índice](../../README.md)
