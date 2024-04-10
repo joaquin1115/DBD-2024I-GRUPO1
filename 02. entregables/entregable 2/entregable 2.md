@@ -242,8 +242,8 @@ A continuación, se muestra la grabación de la entrevista realizada a la ingeni
 
 Los detalles de la reunión fueron registrados en la [acta](acta-entrevista-20240401.md) respectiva, así como también se elaboró una [transcripción](transcripcion-entrevista-20240401.md) de las preguntas y respuestas realizadas durante la entrevista, además se generó un [resumen](Resumen-transcripcion.md) donde se sintetiza los procesos más importantes con un cierto orden, con el fin de comprender mejor los procesos de San Fernando.
 
-## AVANCE DE DIAGRAMAS ENTIDAD - RELACIÓN
-Se tomó como base el siguiente gráfico que identifica la relación de algunas variables de la empresa San Fernando:
+## Avance de Diagramas Entidad-Relación
+Se tomó como referencia el siguiente gráfico que identifica la relación de algunas variables de la empresa San Fernando:
 ![guía](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/164266999/9e755db5-c69d-4db9-92c1-2d0539686804)
 
 
