@@ -215,6 +215,10 @@ a. Usuarios y casos de uso
 
 ![image](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/121084712/0b5ebf91-03dd-413c-9fa8-782e44100ae3)
 
+### Módulo 5
+
+![modulo-5f](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/161625149/716e94a7-7fb6-4aa2-9510-087e745f52ca)
+
 Elaboracion propia.
 
 Link del Figma: https://www.figma.com/file/KQ34ScwxvuSCmmvHqfIPRP/Untitled?type=design&node-id=0-1&mode=design&t=Hbv9cdOoQzm0mQQy-0
