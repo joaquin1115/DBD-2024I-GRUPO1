@@ -295,6 +295,10 @@ La siguiente imagen nos muestra un fragmento de los diagramas Entidad-Relación:
 Finalmente adjuntamos un link donde se ven los diagramas de cada una de las variables registradas hasta el momento:
 https://app.diagrams.net/#Wb!B6iW_HyZ9Uu006YT7wrOYtAgE85DSMBNgtvqP4jjpusfjQlxbKwHQbw161ArWf7P%2F01ZOJ7WU2RUCTY52DUKFEJ4FQ5DCEEUOK2#%7B%22pageId%22%3A%22R2lEEEUBdFMjLlhIrx00%22%7D
 
+Modelo ER del módulo de almacén
+
+![image (2)](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/130816094/039f1fa1-b550-47f5-90f3-3aaf386e6572)
+
 
 
 [Regresar al índice](../../README.md)
