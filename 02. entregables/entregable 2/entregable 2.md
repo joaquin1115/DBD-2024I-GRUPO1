@@ -242,6 +242,15 @@ a. Usuarios y casos de uso
 
 [Figma](https://www.figma.com/file/nnoiQDwJ9WstLLZmVisdpw/Untitled?type=design&node-id=0-1&mode=design&t=ztZFDIkEuNp6ykcn-0)
 
+### Módulo 4: Control
+![figma 1](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/164266999/3bfb29f7-6f1f-4bc5-997a-24761c8c92ea)
+![figma 3](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/164266999/f035b98d-22ab-4992-b71c-3609960fd4d8)
+![figma 4](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/164266999/8a78c244-c92a-492d-b1b3-f4231c2e6581)
+![figma 2](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/164266999/c3869bb0-be08-4c06-8349-d8dc19a5a82d)
+![figma 5](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/164266999/e4d7dc40-73a9-4b04-8f66-789b62a8997e)
+![figma 6](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/164266999/39f0a97b-abcc-4a37-b1ef-8a6261c174a7)
+![figma 7](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/164266999/c54c2869-1077-40d7-aeac-f0b8f0bdf2d9)
+
 ### Módulo 5: Reportes
 
 ![modulo-5f](https://github.com/joaquin1115/DBD-2024I-GRUPO1/assets/161625149/716e94a7-7fb6-4aa2-9510-087e745f52ca)
